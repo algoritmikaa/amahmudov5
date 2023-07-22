@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+h1 {
+    color: navy;
+
+}
+footer {
+    background-color: lightseagreen;
+}
+
+nav {
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+nav a {
+    color: grey;
+    margin: 60px;
+    text-decoration: none;
+}
